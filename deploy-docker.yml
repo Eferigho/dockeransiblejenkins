@@ -25,4 +25,4 @@
         image: "ovuefe/maven01:1.0.0"
         state: started
         published_ports:
-          - 0.0.0.0:8080:8080
+          - 0.0.0.0:85:8080
